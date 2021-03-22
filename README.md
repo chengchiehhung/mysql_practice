@@ -2,7 +2,7 @@
 
 ## 要求三
 1. INSERT INTO user (name, username, password) VALUES ("Jeff", "ply", "ply");
-![Screenshot](1.png)
+![image](https://drive.google.com/file/d/18Oe-cOdtybI7cnrG6nM3FjNLJHJY6cgK/view?usp=sharing)
 2. SELECT * FROM user;
 
 3. SELECT COUNT( * ) FROM user;
